@@ -16,7 +16,7 @@
 ---
 
 <p align="center">
-  <img src="sample_images/hero_image_book_rag.png" alt="PM Knowledge Assistant Interface" width="800"/>
+  <img src="sample_images/hero_image_book_rag.png" alt="PM Knowledge Assistant Interface" width="550"/>
 </p>
 
 ---

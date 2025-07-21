@@ -160,8 +160,8 @@ Embedding Generation → FAISS Index → Production Database
 
 ```bash
 # Clone repository
-git clone https://github.com/apathi/book_RAG.git
-cd book_RAG
+git clone https://github.com/apathi/PM_book_RAG.git
+cd PM_book_RAG
 
 # Create virtual environment
 python3 -m venv .venv

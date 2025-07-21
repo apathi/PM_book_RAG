@@ -1,0 +1,44 @@
+# Environment
+.env
+.venv/
+venv/
+env/
+
+# Data files
+data/
+*.bin
+*.pkl
+*.json
+
+# Book files
+books/
+book_chapters/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+temp/
+
+# Project-specific excludes
+wish_list.txt
+docs/
+CLAUDE.md
